@@ -133,3 +133,5 @@ dmypy.json
 .vscode/settings.json
 /outputs
 notebooks/temp.xlsx
+cache
+results

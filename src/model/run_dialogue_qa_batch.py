@@ -17,7 +17,8 @@ slot_temp_dict = {
         "Target-ARG", "Place-Arg", "Attacker-Arg", "End_Time-Arg"
         ],
     "TheftLostItem": [
-        "Target-ARG", "Place-Arg", "Attacker-Arg", "End_Time-Arg", "Target_Object-Arg", "Start_Time-Arg"
+        "Target-ARG", "Place-Arg", "Attacker-Arg", "End_Time-Arg", 
+        "Target_Object-Arg", "Start_Time-Arg"
         ],
 }
 slot_questions_dict = {
